@@ -1,0 +1,24 @@
+{
+  "name": "informational-site",
+  "version": "1.0.0",
+  "description": "A basic website made using only NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qymmore/node-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qymmore/node-informational-site/issues"
+  },
+  "homepage": "https://github.com/qymmore/node-informational-site#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
